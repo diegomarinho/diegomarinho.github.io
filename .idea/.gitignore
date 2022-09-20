@@ -1,3 +1,125 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files #
+###################
+*.swp
+*.swo
+*~
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.jar
+*.war
+*.ear
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.lock
+package-lock.json
+
+# Mobile Tools for Java (J2ME) #
+################################
+.mtj.tmp/
+
+# Eclipse #
+###########
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*/target/
+/target/
+target/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.project
+
+# sbteclipse plugin #
+#####################
+.target
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml #
+##########################################################################################
+hs_err_pid*
+
+# External tool builders #
+##########################
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations" #
+##################################################
+*.launch
+
+# CDT-specific #
+################
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools) #
+#################################################
+.classpath
+
+# Java annotation processor (APT) #
+###################################
+.factorypath
+
+# PDT-specific #
+################
+.buildpath
+
+# TeXlipse plugin #
+###################
+.texlipse
+
+# Mobile Tools for Java (J2ME) #
+################################
+.mtj.tmp/
+
+# BlueJ files #
+###############
+*.ctxt
+
+# SonarLint Files #
+###################
+.sonarlint
+
+# Recomenders Files #
+#####################
+.recommenders
+
+# intelliJ IDEA #
+#####################
+.idea
+
 # Default ignored files
 /shelf/
 /workspace.xml
